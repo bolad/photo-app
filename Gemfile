@@ -11,7 +11,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'bootstrap-sass', '3.3.6'
-gem 'stripe'
+gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 gem 'font_awesome5_rails'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
