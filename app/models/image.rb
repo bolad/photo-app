@@ -15,3 +15,4 @@ class Image < ApplicationRecord
   end
   
 end
+
